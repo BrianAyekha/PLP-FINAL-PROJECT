@@ -10,8 +10,14 @@ Issue Tracking: Real-time status tracking allows users to stay updated on the re
 Community Engagement: Users can view and upvote reported issues, encouraging authorities to address them faster.
 Offline Mode: Users in rural areas can report issues even without internet access. These reports are saved locally and uploaded once they have a connection.
 Integration with Maps: Users can view issue locations on a map or open them in their preferred navigation app or web browser for better visibility.
+
+
 **Tech Stack**
+
 Frontend: Flutter (Dart)
+
 Backend: Supabase for authentication, data storage, and media storage
+
 Database: Supabase PostgreSQL for managing user and report data
+
 Storage: Supabase storage buckets for image and video uploads
